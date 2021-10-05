@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "About Jekyll!"
 date:   2021-10-05 21:17:00 +0330
 categories: technologies
