@@ -16,3 +16,6 @@ Jekyll is a utility to create static website with ease. one of the main use-case
 - Create static website repository in [Github pages](https://pages.github.com/).
 - [Install Jekyll](https://jekyllrb.com/docs/) on your machine and enable it in your project.
 - [Publish your website](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
+
+
+TODO: Choose a them which has navigation in default layout. minimal is not good enough.
