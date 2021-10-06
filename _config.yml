@@ -27,7 +27,7 @@ twitter_username: MohamadAliAkba
 github_username:  mohamadaliakbari
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
